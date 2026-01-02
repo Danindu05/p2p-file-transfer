@@ -20,8 +20,6 @@ A P2P file-sharing web application that allows instant, secure data transfers be
 
 ---
 
----
-
 ## 💻 Local Development  
 1. Clone the repository:
    ```sh
